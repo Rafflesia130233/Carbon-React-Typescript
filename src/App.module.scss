@@ -1,5 +1,9 @@
 @use '@carbon/layout';
 
 .appDiv{
-    padding: layout.$spacing-12;
+    padding: layout.$spacing-13;
+}
+
+.bodyDiv{
+    padding: layout.$spacing-06;
 }
